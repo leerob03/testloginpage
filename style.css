@@ -2,9 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 20px;
-  background-image: url("parchment_texture.jpg");
-  background-repeat: repeat;
-  background-size: cover;
+  background-color: FDF5E6;
 }
 
 
